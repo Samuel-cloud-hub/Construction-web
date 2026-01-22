@@ -208,9 +208,9 @@ div.gallery img {
 
 }
 .video-container {
-    padding: 30px;
+    padding: 20px;
     border-radius: 20px;
-    width: 100%;
+    width: 80%;
     background: #000;
 }
 #myBtn {
@@ -232,7 +232,7 @@ div.gallery img {
     font-size: x-large;
     display: flex;
     justify-content: space-between;
-    gap: 50px;
+    gap: 20px;
 }
 
 .Testimonial-container {
@@ -247,7 +247,7 @@ div.gallery img {
     color: white;
     position: relative;
     align-items: center;
-    margin-left: 400px;
+    margin-left: 200px;
 }
 .testimonials img {
     width: 100px;
