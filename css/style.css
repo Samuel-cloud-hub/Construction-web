@@ -45,13 +45,16 @@ body {
 .mobile-numbers {
     display: flex; 
     justify-content: space-between; 
-    gap: 30px; 
+    gap: 40px; 
     align-items: center;
+    margin-right: 40px;
 }
 .address {
     display: flex; 
     justify-content: space-between; 
-    gap: 30px;
+    gap: 40px;
+    align-items: center;
+    margin-right: 40px;
 }
 .num:hover {
     color: #efae16;
@@ -195,6 +198,7 @@ div.gallery img {
     display: flex;
     gap:  20px;
     justify-content: space-between;
+    align-items: center;
 }
 #myVideo {
     min-width: 100%;
@@ -598,7 +602,6 @@ div.gallery img {
     color: white;
     position: relative;
     align-items: center;
-    margin-left: 400px;
 }
 .testimonials img {
     width: 100px;
