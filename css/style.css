@@ -213,6 +213,7 @@ div.gallery img {
     width: 100%;
     background: #000;
     align-items: center;
+    margin: 20px;
 }
 #myBtn {
     width: 200px;
